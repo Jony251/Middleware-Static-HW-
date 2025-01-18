@@ -6,3 +6,8 @@ Added functionality to filter users by age if the age query parameter is provide
 Included error handling for invalid age inputs.
 Example JSON data stored in users.json.
 Updated Express server configuration to handle dynamic requests effectively.
+
+Ex 2
+
+Description:
+Work with css styles and color manipulation using js.
